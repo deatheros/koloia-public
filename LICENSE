@@ -1,0 +1,27 @@
+Koloia — All rights reserved
+
+Copyright © 2026 Bohdan Kostiuk. All rights reserved.
+
+This repository distributes the Koloia application for Android in compiled
+form. It contains no source code.
+
+You may download the application from this repository, install it on devices
+you own or control, and use it as a client of the Koloia service.
+
+Without prior written permission of the copyright holder you may not:
+
+- copy, redistribute, sublicense, sell, or host the application or any part of
+  it anywhere else;
+- modify, decompile, disassemble, or reverse engineer it, except where
+  applicable law expressly allows that despite this restriction;
+- use the application, its name, its logo, or any part of it in another
+  product or service.
+
+Third-party components included in the application remain under their own
+licenses. Nothing here restricts the rights those licenses give you.
+
+The application is provided "as is", without warranty of any kind. To the
+extent the law allows, the copyright holder is not liable for any damage
+arising from its use.
+
+No other rights are granted.
